@@ -1,6 +1,6 @@
 ---
-title: 'Blog Post number 1'
-date: 2012-08-14
+title: 'Between Windows 11 and Windows 10 AMSI bypass - Corrupting structures and variables'
+date: 2023
 permalink: /posts/Between-Windows-11-and-Windows-10-AMSI-bypass-Corrupting-structures-and-variables/
 tags:
   - cool posts
