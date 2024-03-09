@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mostapha Bahadou / Bahadou"
+title                    : "Mostapha Bahadou"
 title_separator          : "-"
 name                     : &name "Mostapha Bahadou"
 description              : &description "personal description"
@@ -22,13 +22,13 @@ repository               : "mostaphabahadou/mostaphabahadou.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Mostapha Bahadou"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Red team operator"
+  location         : "Memory pointer"
+  employer         : #"Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : #"none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
